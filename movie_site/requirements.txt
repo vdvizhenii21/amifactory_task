@@ -1,0 +1,9 @@
+Django
+djangorestframework
+psycopg2-binary
+six
+flake8
+drf-extra-fields
+django-filter
+django-environ
+Pillow
